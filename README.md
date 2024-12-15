@@ -16,11 +16,11 @@
 ### 🌱 **About Me**
 <p align="left" style="display: flex; align-items: center; justify-content: space-between;">
   <span>
-    👩‍💻 &nbsp;I'm a **Bachelor's student in Information Systems** at UADER, Argentina. I love deepening my knowledge in development and technology.<br>
-    💡 &nbsp;I enjoy working on **organized, creative, and productive** projects that make a positive impact.<br>
-    🎓 &nbsp;Currently, I’m learning **Java**, **Python**, and **Git/GitHub**.<br>
-    🎨 &nbsp;In my free time, I dedicate myself to **creative design**, **reading books**, and **playing the bass guitar**.<br>
-    🚀 &nbsp;**My goal:** to merge technology and design to innovate and solve problems efficiently.
+    👩‍💻 &nbsp;I'm a `Bachelor's student in Information Systems` at UADER, Argentina. I love deepening my knowledge in development and technology.<br>
+    💡 &nbsp;I enjoy working on organized, creative, and productive projects that make a positive impact.<br>
+    🎓 &nbsp;Currently, I’m learning Java, Python, and Git/GitHub.<br>
+    🎨 &nbsp;In my free time, I dedicate myself to creative design, reading books, and playing the bass guitar.<br>
+    🚀 &nbsp;My goal:to merge technology and design to innovate and solve problems efficiently.
   </span>
 </p>
 
