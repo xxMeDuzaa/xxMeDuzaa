@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Profile%20views&color=0e75b6&style=flat" alt="xxMeDuzaa" /> </p>
 
 ---
-
 ## 🌱 **Me Presento**
 <p align="left" style="display: flex; align-items: center; justify-content: space-between;">
   <span>
@@ -18,14 +17,12 @@
 </p>
 
 ---
-
 ## 💻 **Technical Skills**
 
 - **Languages**: Java, Python, css.
 - **Tools**: Git, GitHub, Visual Studio Code.
 
 ---
-
 ## 📂 Experiencia
 - 👩‍🏫 **Práctica Educativa de Terreno “Conectad@”** (2025)  
   *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*  
@@ -37,7 +34,18 @@
   *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
 
 ---
+## 🎓 Educación
+- **Licenciatura en Sistemas de Información / Analista de Sistemas** – UADER (2024 - Actualidad)  
+---
+## 📜 Cursos y certificaciones destacadas
+- Cisco Networking Academy – Fundamentos de redes (INTERMEDIO)
+- Cisco Networking Academy – Fundamentos de Ciberseguridad (BASICO) 
 
+---
+## 🌍 Idiomas
+- Inglés: Intermedio (B2.1)
+- Español: Nativo
+---
 ## 📊 Mis estadísticas en GitHub
 
 | 📈 Estadísticas |
