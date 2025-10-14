@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Profile%20views&color=0e75b6&style=flat" alt="xxMeDuzaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/MeliMasDuarte" target="blank"><img src="https://img.shields.io/twitter/follow/MeliMasDuarte?logo=twitter&style=for-the-badge" alt="MeliMasDuarte" /></a> </p>
-
 ---
 
 ## 🌱 **Me Presento**
