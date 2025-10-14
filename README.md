@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/MeliMasDuarte" target="blank"><img src="https://img.shields.io/twitter/follow/MeliMasDuarte?logo=twitter&style=for-the-badge" alt="MeliMasDuarte" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="My image" src="https://i.postimg.cc/DymMRzyr/descarga-1.jpg">
-</a>
-
 ---
 
 ## 🌱 **Me Presento**
