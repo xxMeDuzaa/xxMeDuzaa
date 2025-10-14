@@ -42,7 +42,7 @@
 
 | 📈 Estadísticas |
 |-----------------|
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxMeDUzaac&show_icons=true&theme=tokyonight)](https://github.com/xxMeDUzaac)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight)](https://github.com/xxMeDazaa)
 ---
 
 ## 📫 Conectemos
