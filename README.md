@@ -13,7 +13,7 @@
     👩‍💻 &nbsp;Estudiante de Licenciatura en Sistemas de Información en la Universidad Autónoma de Entre Ríos (UADER - FCyT).<br>
     💡 &nbsp;Siempre en búsqueda de entornos desafiantes y colaborativos donde pueda aprender, aportar valor y seguir creciendo.<br>
     🎓 &nbsp;Actualente, estoy aprendiendo Java, CSS, and Git/GitHub.<br>
-    🎨 &nbsp;En mi tiempo libre me dedico el diseño creativo, leer libros y tocar el bajo.<br>
+    🎨 &nbsp;En mi tiempo libre me dedico al diseño creativo, leer libros y tocar el bajo.<br>
   </span>
 </p>
 
@@ -25,6 +25,19 @@
 - **Tools**: Git, GitHub, Visual Studio Code.
 
 ---
+
+## 📂 Experiencia
+- 👩‍🏫 **Práctica Educativa de Terreno “Conectad@”** (2025)  
+  *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*  
+
+- 📚 **Administrativa – Birra&Postre** (2023 - 2025)  
+  *Encargada de la gestión administrativa y financiera del negocio, incluyendo control de cuentas corrientes, cobros y pagos.*  
+
+- 🖥️ **Community Manager – Birra&Postre** (2024 - 2025)  
+  *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
+
+---
+
 ## 📊 Mis estadísticas en GitHub
 
 | 📈 Estadísticas |
