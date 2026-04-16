@@ -25,21 +25,20 @@
 ---
 ## 📂 Experiencia
 - 👩‍🏫 **Práctica Educativa de Terreno “Conectad@”** (2025)  
-  *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*  
+  *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*
+
+  - 🖥️ **Community Manager – Birra&Postre** (2024 - Actualidad)  
+  *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
 
 - 📚 **Administrativa – Birra&Postre** (2023 - 2025)  
   *Encargada de la gestión administrativa y financiera del negocio, incluyendo control de cuentas corrientes, cobros y pagos.*  
-
-- 🖥️ **Community Manager – Birra&Postre** (2024 - 2025)  
-  *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
 
 ---
 ## 🎓 Educación
 - **Licenciatura en Sistemas de Información / Analista de Sistemas** – UADER (2024 - Actualidad)  
 ---
 ## 📜 Cursos y certificaciones destacadas
-- Cisco Networking Academy – Fundamentos de redes (INTERMEDIO)
-- Cisco Networking Academy – Fundamentos de Ciberseguridad (BASICO) 
+- Tango Horizonte 2 (INTERMEDIO)
 
 ---
 ## 🌍 Idiomas
