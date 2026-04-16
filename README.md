@@ -19,7 +19,7 @@
 ---
 ## 💻 **Technical Skills**
 
-- **Languages**: Pascal, PJava, Python, css.
+- **Languages**: Pascal, Java, Python, css.
 - **Tools**: Git, GitHub, Visual Studio Code.
 
 ---
@@ -35,7 +35,8 @@
 
 ---
 ## 🎓 Educación
-- **Licenciatura en Sistemas de Información / Analista de Sistemas** – UADER (2024 - Actualidad)  
+- **Licenciatura en Sistemas de Información** – UADER (2024 - Actualidad)  
+- **Analista de Sistemas** – UADER (2024 - 2026)  
 ---
 ## 📜 Cursos y certificaciones destacadas
 - Tango Horizonte 2 (INTERMEDIO)
