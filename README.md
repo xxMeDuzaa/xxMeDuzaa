@@ -27,7 +27,7 @@
 - 👩‍🏫 **Práctica Educativa de Terreno “Conectad@”** (2025)  
   *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*
 
-  - 🖥️ **Community Manager – Birra&Postre** (2024 - Actualidad)  
+- 🖥️ **Community Manager – Birra&Postre** (2024 - Actualidad)  
   *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
 
 - 📚 **Administrativa – Birra&Postre** (2023 - 2025)  
