@@ -19,7 +19,7 @@
 ---
 ## 💻 **Technical Skills**
 
-- **Languages**: Java, Python, css.
+- **Languages**: Pascal, PJava, Python, css.
 - **Tools**: Git, GitHub, Visual Studio Code.
 
 ---
