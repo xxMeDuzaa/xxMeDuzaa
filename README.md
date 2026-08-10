@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Melina Duarte</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Student at UADER, Argentina 🌟</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4C2882&size=30&lines=Hey!+They+call+me+MeDuza!;I'm+a+3rd+year+student...;And+I+work+as+a+CM!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4C2882&size=30&lines=Hey!+They+call+me+MeDuza!;I'm+a+3rd+year+student...)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Profile%20views&color=0e75b6&style=flat" alt="xxMeDuzaa" /> </p>
 
@@ -11,26 +11,23 @@
   <span>
     👩‍💻 &nbsp;Estudiante de Licenciatura en Sistemas de Información en la Universidad Autónoma de Entre Ríos (UADER - FCyT).<br>
     💡 &nbsp;Siempre en búsqueda de entornos desafiantes y colaborativos donde pueda aprender, aportar valor y seguir creciendo.<br>
-    🎓 &nbsp;Actualente, estoy aprendiendo Java, CSS, and Git/GitHub.<br>
+    🎓 &nbsp;Actualente, estoy aprendiendo JavaScript, CSS, and Git/GitHub.<br>
     🎨 &nbsp;En mi tiempo libre me dedico al diseño creativo, leer libros y tocar el bajo.<br>
   </span>
 </p>
 
 ---
-## 💻 **Technical Skills**
-
-- **Languages**: Pascal, Java, Python, css.
-- **Tools**: Git, GitHub, Visual Studio Code.
-
----
 ## 📂 Experiencia
-- 👩‍🏫 **Práctica Educativa de Terreno “Conectad@”** (2025)  
+- 👩‍🏫 **Práctica Educativa Territorial “Eureka 2026”** (2026)  
+  *jornadas de extensión universitaria orientadas a la transferencia de conocimientos, la divulgación y la vinculación con la comunidad relacionadas con las carreras tecnológicas de la sede”.*
+
+- 👩‍🏫 **Práctica Educativa Territorial “Conectad@”** (2025)  
   *Taller “Conectad@s: acceso igualitario a herramientas digitales para la inclusión social”.*
 
-- 🖥️ **Community Manager – Birra&Postre** (2024 - Actualidad)  
+- 🖥️ **Community Manager – Birra&Postre** (2024 - 2026)  
   *Responsable de la gestión y crecimiento de la presencia digital de la marca.*  
 
-- 📚 **Administrativa – Birra&Postre** (2023 - 2025)  
+- 📚 **Administrativa – Birra&Postre** (2023 - 2026)  
   *Encargada de la gestión administrativa y financiera del negocio, incluyendo control de cuentas corrientes, cobros y pagos.*  
 
 ---
@@ -40,17 +37,18 @@
 ---
 ## 📜 Cursos y certificaciones destacadas
 - Tango Horizonte 2 (INTERMEDIO)
+- Power BI (Intermedio) | Santander Open Academy
 
 ---
 ## 🌍 Idiomas
-- Inglés: Intermedio (B2.1)
+- Inglés: Intermedio (B1)
 - Español: Nativo
 ---
 ## 📊 Mis estadísticas en GitHub
 
 | 📈 Estadísticas |
 |-----------------|
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight)](https://github.com/xxMeDazaa)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight)](https://github.com/xxMeDuzaa)
 ---
 
 ## 📫 Conectemos
