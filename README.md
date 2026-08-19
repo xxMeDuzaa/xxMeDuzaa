@@ -45,11 +45,9 @@
 - Español: Nativo
 ---
 ## 📊 Mis estadísticas en GitHub
-
-| 📈 Estadísticas |
-|-----------------|
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight)](https://github.com/xxMeDuzaa)
----
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ## 📫 Conectemos
 - 📧 **Email:** [melinamasduarte@gmail.com](mailto:melinamasduarte@gmail.com)  
