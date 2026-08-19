@@ -7,13 +7,11 @@
 
 
 ## 🌱 **Me Presento**
-<p align="left" style="display: flex; align-items: center; justify-content: space-between;">
-  <span>
-    👩‍💻 &nbsp;Estudiante de Licenciatura en Sistemas de Información en la Universidad Autónoma de Entre Ríos (UADER - FCyT).<br>
-    💡 &nbsp;Siempre en búsqueda de entornos desafiantes y colaborativos donde pueda aprender, aportar valor y seguir creciendo.<br>
-    🎓 &nbsp;Actualente, estoy aprendiendo JavaScript, CSS, and Git/GitHub.<br>
-    🎨 &nbsp;En mi tiempo libre me dedico al diseño creativo, leer libros y tocar el bajo.<br>
-  </span>
+
+<p align="left">
+  👩‍💻 <b>Estudiante avanzada</b> de Licenciatura en Sistemas de Información (UADER - FCyT) y próxima a graduarme como Analista de Sistemas. En constante aprendizaje, actualmente enfocada en <b>desarrollo web (JavaScript, CSS)</b> y potenciando mis habilidades en <b>análisis de datos y Git/GitHub</b>. <br>
+  🚀 Apasionada por la innovación con impacto social: participo en proyectos de <b>extensión comunitaria y divulgación tecnológica</b>. <br>
+  🧩 En mi tiempo libre disfruto del <b>diseño creativo, los juegos de mesa y la pastelería</b>, además de tocar el bajo y acompañar una buena lectura. 📚🎸
 </p>
 
 
