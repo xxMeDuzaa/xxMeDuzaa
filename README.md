@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Profile%20views&color=0e75b6&style=flat" alt="xxMeDuzaa" /> </p>
 
----
+
 ## 🌱 **Me Presento**
 <p align="left" style="display: flex; align-items: center; justify-content: space-between;">
   <span>
@@ -16,7 +16,7 @@
   </span>
 </p>
 
----
+
 ## 📂 Experiencia
 - 👩‍🏫 **Práctica Educativa Territorial “Eureka 2026”** (2026)  
   *jornadas de extensión universitaria orientadas a la transferencia de conocimientos, la divulgación y la vinculación con la comunidad relacionadas con las carreras tecnológicas de la sede”.*
@@ -30,28 +30,24 @@
 - 📚 **Administrativa – Birra&Postre** (2023 - 2026)  
   *Encargada de la gestión administrativa y financiera del negocio, incluyendo control de cuentas corrientes, cobros y pagos.*  
 
----
+
 ## 🎓 Educación
 - **Licenciatura en Sistemas de Información** – UADER (2024 - Actualidad)  
 - **Analista de Sistemas** – UADER (2024 - 2026)  
----
+
+
 ## 📜 Cursos y certificaciones destacadas
 - Tango Horizonte 2 (INTERMEDIO)
 - Power BI (Intermedio) | Santander Open Academy
 
----
-## 🌍 Idiomas
-- Inglés: Intermedio (B1)
-- Español: Nativo
----
+
 ## 📊 Mis estadísticas en GitHub
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+
 ## 📫 Conectemos
 - 📧 **Email:** [melinamasduarte@gmail.com](mailto:melinamasduarte@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/melina-mas-duarte/](https://www.linkedin.com/in/melina-mas-duarte/)  
 - 🌐 **Portfolio:** 
-
----
