@@ -1,89 +1,101 @@
 <div align="center">
 
-  <h1><b>Hi, I'm Melina Duarte</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave"></h1>
-  
-  <h3>Analista de Sistemas & Estudiante de Licenciatura en Sistemas de Información 🌟</h3>
+  <h1><b>Hola, soy Melina Mas Duarte</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Saludo"></h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2CBF&center=true&vCenter=true&width=435&lines=Systems+Information+Student;Data+Analysis+%26+Database+Design;Tech+Extensio%2BCommunity+Impact)](https://git.io/typing-svg)
+  <h3>Analista en Sistemas · Desarrollo backend, análisis funcional y datos 🌟</h3>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2CBF&center=true&vCenter=true&width=480&lines=Analista+en+Sistemas+%7C+UADER;Backend+%C2%B7+Microservicios+%C2%B7+Datos;Node.js+%C2%B7+React+%C2%B7+PostgreSQL+%C2%B7+Kafka)](https://git.io/typing-svg)
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Profile%20Views&color=7B2CBF&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=xxMeDuzaa&label=Visitas&color=7B2CBF&style=flat-square" alt="Visitas al perfil" />
   </p>
 
 </div>
 
 ---
 
-## 🌱 **Sobre Mí**
+## 🌱 Sobre mí
 
-<p align="left">
-  👩‍💻 <b>Analista de Sistemas</b> (en fase de egreso) y estudiante avanzada de la <b>Licenciatura en Sistemas de Información (UADER - FCyT)</b>.<br>
-  📊 Orientada al <b>Análisis de Datos, Modelado de Bases de Datos y Gestión Administrativa-Financiera</b>.<br>
-  🚀 Apasionada por la inclusión digital: participo activamente en proyectos de <b>extensión universitaria y transferencia tecnológica</b>.<br>
-  💡 Aprendiendo activamente <b>JavaScript, CSS y desarrollo web</b> para complementar mi perfil técnico.<br>
-  🧩 En mi tiempo libre exploro el <b>diseño creativo, la lectura, la cocina y los juegos de mesa</b>.
-</p>
+- 👩‍💻 **Analista en Sistemas** (egreso en diciembre de 2026) y estudiante de la **Licenciatura en Sistemas de Información** (UADER · FCyT).
+- 🧩 Me gusta construir sistemas de punta a punta: relevar requerimientos, modelar los datos, programar y desplegar.
+- 📊 Tres años de experiencia en gestión administrativa y financiera, que me dan visión del negocio y del usuario.
+- 🔭 Ahora mismo: terminando mi proyecto final (**Orbita**, un e-commerce en equipo con Kanban).
+- 💼 Busco mi primera experiencia en IT: pasantía o posición junior en **desarrollo, análisis funcional o datos**.
 
 ---
 
-## 🛠️ **Stack Técnico & Herramientas**
+## 🚀 Proyectos destacados
 
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**RutaSur**](https://github.com/xxMeDuzaa/rutasur-tracking-eventos) | Seguimiento de envíos en tiempo real, orientado a eventos: simulador, monitor de SLA, notificaciones y paneles | Kafka · Node.js · MongoDB · Next.js · Docker |
+| [**Activación de servicios**](https://github.com/xxMeDuzaa/activacion-servicios-kafka) | Seis microservicios coordinados por eventos, con saga, idempotencia, reintentos y Dead Letter Queue | NestJS · Kafka · MongoDB · React · Docker |
+| [**Gestor de tareas**](https://github.com/xxMeDuzaa/gestor-tareas-fullstack) | Aplicación full stack para gestionar tareas de proyectos de software | React · Express · PostgreSQL · Docker |
+| [**Flappy Bird facial**](https://github.com/xxMeDuzaa/flappy_bird) | El clásico, controlado moviendo la nariz frente a la cámara | Python · MediaPipe · OpenCV · CI |
+| [**Pagos con Stripe**](https://github.com/xxMeDuzaa/payments-ms-stripe) | Microservicio de sesiones de pago y webhooks, con tests | NestJS · Stripe · Jest |
+
+---
+
+## 🛠️ Stack técnico
+
+**Lenguajes**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**Backend y frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+**Datos y mensajería**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+**Herramientas y cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 💼 **Experiencia & Proyectos**
+## 💼 Experiencia
 
-* **Práctica Educativa Territorial “Eurekas 2026”** | *FCyT UADER* (2026 - Presente)<br>
-  *Estudiante Extensionista:* Divulgación científica, talleres dinámicos y vinculación tecnológica con la comunidad.
+- **Estudiante Extensionista** · Prácticas Educativas Territoriales, FCyT UADER *(oct. 2025 – sep. 2026)*: talleres de divulgación tecnológica e inclusión digital.
+- **Community Manager** · Birra&Postre *(2024 – 2026)*: gestión de canales digitales y análisis de métricas.
+- **Cajera y Auxiliar Administrativa** · Birra&Postre *(2023 – 2026)*: cuentas corrientes, conciliaciones, cobros y pagos.
 
-* **Práctica Educativa Territorial “Conectad@s”** | *FCyT UADER / Prog. SU+* (2025)<br>
-  *Estudiante Extensionista:* Facilitación de talleres de inclusión digital y acceso igualitario a tecnologías para adolescentes.
+## 🎓 Educación
 
-* **Community Manager & Análisis Digital** | *Birra&Postre* (2024 - 2026)<br>
-  *Planificación de comunicación digital, gestión de canales y análisis de métricas de interacción para la toma de decisiones.*
-
-* **Gestión Administrativa & Operativa** | *Birra&Postre* (2023 - 2026)<br>
-  *Control financiero, conciliación de cuentas corrientes, diseño y optimización de flujos de trabajo internos.*
+- **Analista en Sistemas** · UADER FCyT *(egreso: dic. 2026)*
+- **Licenciatura en Sistemas de Información** · UADER FCyT *(en curso)*
+- **Curso de Power BI** · Santander Open Academy *(2026)*
 
 ---
 
-## 🎓 **Educación & Certificaciones**
-
-* **Analista de Sistemas** — *UADER FCyT* (Egreso estimado: 2026)<br>
-  *Título técnico enfocado en desarrollo de software, bases de datos y arquitectura.*
-
-* **Licenciatura en Sistemas de Información** — *UADER FCyT* (En curso)<br>
-  *Formación integral en gestión tecnológica, análisis de sistemas y datos.*
-
-* **Curso de Power BI (Intermedio)** — *Santander Open Academy* (2026)<br>
-  *Power Query, modelado de datos, paneles interactivos y visualización DAX.*
-
-* **Tango Horizonte 2 (Intermedio)**<br>
-  *Gestión administrativa y operacional en software ERP.*
-
----
-
-## 📊 **Estadísticas de GitHub**
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxMeDuzaa&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 ---
 
-## 📫 **Conectemos**
+## 📫 Contacto
 
 <p align="left">
   <a href="mailto:mariamelinaduarte@gmail.com">
